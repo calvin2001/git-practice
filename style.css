@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+.counter-box {
+    display: inline-block;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
